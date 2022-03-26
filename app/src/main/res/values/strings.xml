@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MapheStore</string>
+    <string name="titulo">Bienvenido a tu aplicacion de compra</string>
+    <string name="empecemos">Empecemos!</string>
+    <string name="inscripcion">Crea tu cuenta</string>
+    <string name="correo">Correo:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="recordar">Recordar mi contraseña</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirm">Confirmas que tus datos estan correctos?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="end">Finalizar</string>
+</resources>
